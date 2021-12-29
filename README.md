@@ -1,5 +1,4 @@
-# new_project
-
+# Simple quiz project
 A new Flutter project.
 
 ## Getting Started
